@@ -18,11 +18,11 @@ Software must do the following:
 - make it blink every 3 seconds.
 ## Target
 
-| Main.cpp | Main program calls all other functions     | 
-| :-------- | :------- |
-| print.cpp| prints the target message on screen |
+| Main.cpp | Main program calls all other functions                  | 
+| :--------| :------------------------------------------------------ |
+| print.cpp| prints the target message on screen                     |
 | frame.cpp| adds centric print and background color and text colors |
-| blink.cpp| blinks the final print every 3 seconds |
+| blink.cpp| blinks the final print every 3 seconds                  |
 
 ## Teams
 | master     | team1.      | team2       | team3       |
