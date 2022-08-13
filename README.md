@@ -1,1 +1,1 @@
-## Innovation Academy demo project for colaboration between team members 
+# Innovation Academy demo project
